@@ -1,0 +1,1 @@
+CHciabym robiac ten projekt przyswoic sobie rytm pracy lacznie z zapisywaniem postepow w gicie jak rowniez podstawowy flow pracy z kodem oraz budowanie strony
